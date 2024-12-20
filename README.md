@@ -167,7 +167,7 @@ def process_audio(data, n_steps, playback_speed, effect_type, filter_type):
 
 >There are three version of the codes.
 
->I strongly recommend you to run the code, "emotions_soxr.py" .
+> **I strongly recommend you to run the code, "emotions_soxr.py" . **
 
 >If you find it difficult to make facial expressions, use the images in the 'facial expression' folder.
 
@@ -200,13 +200,13 @@ python emotions_librosa.py
 
 > By soxr
  
->[Visit my GitHub Repository](https://github.com/Minjeong-Kim19/Dynamic-Music-Mood-Adaptation-Based-on-Facial-Expression)
+>[Visit my GitHub Repository : Final_김민정.zip ](https://github.com/Minjeong-Kim19/Dynamic-Music-Mood-Adaptation-Based-on-Facial-Expression)
 
 - Install
 
 ```
 pip install opencv-python opencv-python-headless numpy keras tensorflow librosa scipy soxr pipwin
-pipwin install pyaudio0
+pipwin install pyaudio
 ```
 
 - Run
@@ -225,7 +225,7 @@ python emotions_soxr.py
 
 ```
 pip install opencv-python opencv-python-headless numpy keras tensorflow librosa scipy soxr pipwin
-pipwin install pyaudio0
+pipwin install pyaudio
 ```
 
 - Run
