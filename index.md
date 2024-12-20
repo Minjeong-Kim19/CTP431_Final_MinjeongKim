@@ -4,30 +4,6 @@ layout: default
 
 # 1. The main idea
 
-This is a system that utilizes a CNN to recognize emotions from facial expressions and adjusts the key, tempo, and vari>
-
-# 2. Inspiration
-
-- My Hobby
-> Playing background music(BGM) from dramas on my master keyboard.
-> ![Hobby](https://raw.githubusercontent.com/Minjeong-Kim19/Dynamic-Music-Mood-Adaptation-Based-on-Facial-Expression/ma>
-
-- BackGround Music(BGM)
-> BGM plays an important role in dramas as it changes according to the mood of the work and the emotions of the charact>
-
-- Two types of BGM melodies (The definition provided by me.)
-
-| Different melodies  | The same melody with variations|
-|:--------------------|:---------------------|
-|entirely different musical progressions|a single melody whose pitch, tempo, or timbre has been altered      => cohesiv>
-
-- Example of the latter type of BGM from Drama
-  - New Life Begin (경경일상, 卿卿日常) (2022)---
-layout: default
----
-
-# 1. The main idea
-
 This is a system that utilizes a CNN to recognize emotions from facial expressions and adjusts the key, tempo, and various effects of a single piece of music in real time.
 
 # 2. Inspiration
