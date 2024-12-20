@@ -4,5 +4,6 @@ source "https://rubygems.org"
 
 gemspec
 
-gem 'csv'
+gem "jekyll-theme-cayman"
+
 
