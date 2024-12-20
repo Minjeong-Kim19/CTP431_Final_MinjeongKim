@@ -139,7 +139,7 @@ def process_audio(data, n_steps, playback_speed, effect_type, filter_type):
   | Emotion  | n_steps (Pitch Shift) | Playback Speed (Tempo) | Effect Type | Filter Type |
   |:-------------|:----------------|:----------------------|:-------------|:-------------|
   | Happy |  4(Major) | 2.0(fast) | Reverb | High-pass |
-  | Sad |   | -5(Major) | 0.1(slow) | Low-pass |
+  | Sad | -5(Major) | 0.1(slow) | Wah-Wah | Low-pass |
   | Angry |  7 | 5.0 | Delay | Any | 
   | Surprise | 5 | 4.0 | Reverb | High-pass |
   | Neutral | 0 | 1.0 | None | Low-pass |
@@ -167,7 +167,7 @@ def process_audio(data, n_steps, playback_speed, effect_type, filter_type):
 
 >There are three version of the codes.
 
-> **I strongly recommend you to run the code, "emotions_soxr.py" . **
+> ** I strongly recommend you to run the code, "emotions_soxr.py" . **
 
 >If you find it difficult to make facial expressions, use the images in the 'facial expression' folder.
 
