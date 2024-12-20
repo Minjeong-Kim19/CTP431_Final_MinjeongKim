@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dynamic Music Mood Adaptation Based on Facial Expression
+---
+
+
 # 1. The main idea
 
 This is a system that utilizes a CNN to recognize emotions from facial expressions and adjusts the key, tempo, and various effects of a single piece of music in real time.
