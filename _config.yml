@@ -1,5 +1,11 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+nano /home/me1703/cayman/_config.ymlnano /home/me1703/cayman/_config.ymltitle: Dynamic Music Mood Adaptaion Based on Facial Expression 
+description: |
+  Facial expression, Emotion, CNN, Music, Mood, Variation, Real-Time
+  Research insights provided by Minjeong Kim, KAIST
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+baseurl: "/Dynamic-Music-Mood-Adaptation-Based-on-Facial-Expression"
+url: "https://minjeong-kim19.github.io"
+
