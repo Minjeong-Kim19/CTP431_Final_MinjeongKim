@@ -132,7 +132,7 @@ def process_audio(data, n_steps, playback_speed, effect_type, filter_type):
 
  3) Relation between Emotion and Musical mood
 
- - ![Emotional Responses to Music](https://link.springer.com/article/10.1007/s11031-005-4414-0)
+ - ![Emotional Responses to Music](https://psycnet.apa.org/record/2005-06447-002)
    - By referring to the following research papers, I organized the musical moods corresponding to each emotion and applied effects as follows.
    - ![Graph from the research paper](https://raw.githubusercontent.com/Minjeong-Kim19/Dynamic-Music-Mood-Adaptation-Based-on-Facial-Expression/main/Emotions_Musical_Mood.png)
 
